@@ -37,6 +37,6 @@ curl -v -X PATCH 'localhost:8080/car/330-25864-8/lock'
 ```
 * Unlock car:
 ```python
-curl -v -X PATCH "localhost:8080/car/330-25864-8/unlock/{keyLock returned from lockCar}"
+curl -v -X PATCH 'localhost:8080/car/330-25864-8/unlock/{keyLock returned from lockCar}'
 ```
 
