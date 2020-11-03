@@ -1,6 +1,6 @@
 # Carservice demo
 
-built on Spring-boot, Webflux, H2 in-memory, H2-R2DBC
+built on Spring-boot, WebFlux, H2 in-memory, H2-R2DBC
 
 ## Build & test
 
